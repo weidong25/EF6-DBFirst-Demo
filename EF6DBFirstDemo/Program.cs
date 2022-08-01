@@ -4,7 +4,9 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Data.Entity.Spatial;
 using System.Linq;
-
+/// <summary>
+/// Good
+/// </summary>
 namespace EF6DBFirstDemo
 {
     internal class Program
